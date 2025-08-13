@@ -1,7 +1,7 @@
 import PageHeader from "@/components/header";
 import React from "react";
 
-const items = [{}];
+// const items = [{}];
 
 export default function Pricing() {
   return (
