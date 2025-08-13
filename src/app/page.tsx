@@ -44,7 +44,8 @@ export default function Home() {
                 freelancers, and small businesses get ahead faster with
                 ready-made resources for resumes, business, branding, school,
                 and sales. From Canva designs to Notion planners and business
-                documents, Templyt delivers quality digital tools — instantly.
+                documents, BBuzz Network delivers quality digital tools —
+                instantly.
               </p>
               <button className="bg-[#ECFF05] hover:bg-[#d7e06f] flex flex-row items-center gap-2 py-3 px-10 md:px-6 cursor-pointer font-bold mx-auto md:mx-0">
                 View Pricing{" "}
@@ -249,7 +250,8 @@ export default function Home() {
                 <p className="mt-2">
                   &quot;I bought the CV & Portfolio Kit and landed three
                   interviews within a week. The design was clean, professional,
-                  and easy to edit. Templyt made me stand out instantly!&quot;
+                  and easy to edit. BbuzzNetwork made me stand out
+                  instantly!&quot;
                 </p>
                 <div className="mt-3">
                   <p className="font-semibold">Chidera Okeke</p>
@@ -286,7 +288,7 @@ export default function Home() {
                   <Image src={star} alt="star" className="w-[20px]" />
                 </div>
                 <p className="mt-2">
-                  &quot;Templyt’s Business Document Bundle has been a
+                  &quot;BBuzzNetwork Business Document Bundle has been a
                   game-changer for my freelance work. Sending polished proposals
                   and contracts has helped me close more clients — and get paid
                   faster.&quot;
