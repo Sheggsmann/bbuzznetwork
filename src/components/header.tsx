@@ -17,11 +17,9 @@ export default function PageHeader({ title, description }: PageHeaderProps) {
         className="w-full h-[100%] object-cover absolute top-0 left-0 right-0"
       />
       <div className="absolute top-0 left-0 right-0 w-full h-[100%] z-10 bg-black/60"></div>
-      <div className={`${styles.paddingX} z-20`}>
-        <div className={`${styles.boxWidth} z-20 mx-auto`}>
-          <h1 className="text-3xl text-white font-bold">{title}</h1>
-          <p className="text-white mt-4">{description}</p>
-        </div>
+      <div className={`${styles.boxWidth} z-20 mx-auto px-6 md:px-0`}>
+        <h1 className="text-3xl text-white font-bold">{title}</h1>
+        <p className="text-white mt-4">{description}</p>
       </div>
     </div>
   );
