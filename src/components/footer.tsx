@@ -60,7 +60,7 @@ export default function Footer() {
                 </Link>
               </li>
               <li className="font-semibold text-base mr-10 cursor-pointer text-white">
-                +234 701 234 5678
+                +234 812 966 4234
               </li>
               <li className="font-semibold text-base mr-10 cursor-pointer text-white">
                 36 TUNJI BELLO STREET, AJAH.
