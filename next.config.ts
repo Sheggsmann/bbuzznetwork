@@ -21,11 +21,11 @@ const nextConfig: NextConfig = {
             value: "camera=(), microphone=(), geolocation=()",
           },
           // Optional but recommended CSP (adjust based on your app)
-          {
-            key: "Content-Security-Policy",
-            value:
-              "default-src 'self'; script-src 'self' 'unsafe-inline'; style-src 'self' 'unsafe-inline'; object-src 'none'; img-src 'self' data: blob:;",
-          },
+          // {
+          //   key: "Content-Security-Policy",
+          //   value:
+          //     "default-src 'self'; script-src 'self' 'unsafe-inline'; style-src 'self' 'unsafe-inline'; object-src 'none'; img-src 'self' data: blob:;",
+          // },
         ],
       },
     ];
